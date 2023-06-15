@@ -6,11 +6,9 @@ Wannabe a developer like sponge🧽 :)
 ### 🙌 Contact Me!
 <a href="https://www.instagram.com/rung._.ji_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rung._.ji_/"/>
-</a>
-<a href="matilto:leeej106@knu.ac.kr">
+</a><a href="matilto:leeej106@knu.ac.kr">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=matilto:leeej106@knu.ac.kr"/>
-</a>
-<a href="https://www.linkedin.com/in/eunji-lee-aa750123a/">
+</a><a href="https://www.linkedin.com/in/eunji-lee-aa750123a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/eunji-lee-aa750123a/"/>
 </a>
 
