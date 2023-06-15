@@ -10,4 +10,4 @@ Hi there👋! I'm backend developer mainly using spring!
 ### 💻 Skills
 <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
-[![https://solved.ac/profile/leeej106](http://mazassumnida.wtf/api/generate_badge?boj={leeej106})](https://solved.ac/{leeej106})
+[![https://solved.ac/profile/leeej106](http://mazassumnida.wtf/api/generate_badge?boj=leeej106)](https://solved.ac/leeej106)
